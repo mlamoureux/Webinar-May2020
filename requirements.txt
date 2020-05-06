@@ -1,4 +1,4 @@
 numpy==1.18.*
 matplotlib==3.*
-ffmpeg==4.*
+ffmpeg
 rise==5.6.*
