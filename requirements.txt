@@ -1,0 +1,4 @@
+numpy==1.18.*
+matplotlib==3.*
+ffmpeg==4.2
+rise==5.6.*
